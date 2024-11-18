@@ -70,9 +70,6 @@
             "value": "360"
         }
     ],
-    "storefrontAddons": [
-        {}
-    ],
     "aspects": [
         {
             "name": "backoffice",
