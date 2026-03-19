@@ -1,6 +1,5 @@
 {
     "commerceSuiteVersion": "2211-jdk21.9",
-    "solrVersion": "9.5",
     "enableImageProcessingService": true,
     "extensionPacks": [
         {
@@ -9,7 +8,6 @@
         }
     ],
     "extensions": [
-        "oauth2",
 		"mediaweb",
         "azurecloudhotfolder",
         "cloudmediaconversion",
