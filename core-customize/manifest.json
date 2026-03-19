@@ -1,11 +1,11 @@
 {
-    "commerceSuiteVersion": "2211.33",
+    "commerceSuiteVersion": "2211-jdk21.9",
     "solrVersion": "9.5",
     "enableImageProcessingService": true,
     "extensionPacks": [
         {
             "name": "hybris-commerce-integrations",
-            "version": "2211.30"
+            "version": "2211-jdk21.7"
         }
     ],
     "extensions": [
