@@ -347,5 +347,6 @@
     <extension name='sapcpiorderexchangeoms' />
     <extension name='sapcpiorderexchangeomsb2b' />
     <extension name='ysapcpiomsfulfillment' />
+    <extension name='xyformsservices' />
   </extensions>
 </hybrisconfig>
