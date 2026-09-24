@@ -295,6 +295,10 @@
                 {
                     "name": "resourceserver",
                     "contextPath": "/resourceserver"
+                },
+				{
+                    "name": "datahubadapter",
+                    "contextPath": "/datahubadapter"
                 }
             ]
         },
